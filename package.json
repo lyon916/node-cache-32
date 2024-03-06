@@ -1,5 +1,5 @@
 {
-  "name": "apicache",
+  "name": "node-cache-32",
   "version": "1.6.3",
   "scripts": {
     "lint": "eslint .",
@@ -16,7 +16,7 @@
   "main": "./src/apicache.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kwhitley/apicache.git"
+    "url": "https://github.com/lyon916/node-cache-32.git"
   },
   "keywords": [
     "cache",
